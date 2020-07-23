@@ -5,7 +5,7 @@ A simple implementation of an interpreter for a simple version of the Turtle Gra
 #### Python 2.x
 
 #### Pygame 
-`$ pip install pygame` should be enough to install this library. If not then please refer to https://www.pygame.org/wiki/GettingStarted.
+`$ pip install pygame` should be enough to install this library. If not then please refer to https://www.pygame.org/wiki/GettingStarted. I am using pygame for creating the drawing screen and drawing line segments only.
 
 ## Instructions
 Save `chiraag_imperial_turtle.py` in your working directory.
