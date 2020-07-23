@@ -54,7 +54,7 @@ This will make turtle `b` rotate by 90 degrees in anticlockwise direction.
 
 (4) `right` command will rotate the direction of a specified turtle clockwise by specified degrees.
 ```
->>> left c 45
+>>> right c 45
 ```
 This will make turtle `c` rotate by 45 degrees in clockwise direction.
 
