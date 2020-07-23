@@ -45,5 +45,5 @@ Enter commands below:
 >>> pen boris down
 >>> move boris 50
 ```
-![](image.png)
+![](sample.png)
 
