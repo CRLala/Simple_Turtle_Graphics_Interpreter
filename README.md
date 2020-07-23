@@ -76,7 +76,7 @@ This will make turtle `c` change it's colour to green
 >>> exit
 ```
 ## Sample Program
-The following sample command draws the graphical image below:
+The following sample program draws the graphical image below:
 ```
 $ python chiraag_imperial_turtle.py 
 pygame 1.9.6
