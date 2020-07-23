@@ -1,5 +1,5 @@
 # Simple Turtle Graphics Interpreter
-A simple implementation of an interpreter for a simple version of the Turtle Graphics Language. It allows users to enter programs using simple commands, and to see the appropriate graphical output on the screen.
+A simple implementation of an interpreter for a simple version of the Turtle Graphics Language. It allows users to enter programs using simple commands, and to see the appropriate graphical output on the screen. The programming exercise can be found in `tf-programming-exercise.pdf`.
 
 ## Requirements
 #### Python 2.x
