@@ -1,16 +1,16 @@
 # Simple Turtle Graphics Interpreter
-A simple implementation of an interpreter for a simple version of the Turtle Graphics Language. It allows users to enter programs using simple commands, and to see the appropriate graphical output on the screen. The programming exercise can be found in `tf-programming-exercise.pdf`.
+A simple implementation of an interpreter for a simple version of the Turtle Graphics Language. It allows users to enter programs using simple commands, and to see the appropriate graphical output on the screen. The programming exercise description can be found in `tf-programming-exercise.pdf`.
 
 ## Requirements
 #### Python 2.x
 
 #### Pygame 
-`$ pip install pygame` should be enough to install this library. If not then please refer to https://www.pygame.org/wiki/GettingStarted. I am using pygame for creating the drawing screen and drawing line segments only.
+`$ pip install pygame` should be enough to install this library. If not then please refer to https://www.pygame.org/wiki/GettingStarted. I am using pygame for creating the display screen and drawing line segments only.
 
 ## Instructions
 Save `chiraag_imperial_turtle.py` in your working directory.
 
-Now simply run the script to start the interpreter
+Now simply run the script from your working directory to start the interpreter
 
 `$ python chiraag_imperial_turtle.py`
 
